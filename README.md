@@ -9,7 +9,7 @@ Desafio de Projeto Modulo Java - `Bootcamp` -TQI Fullstack Developer
 ## Project
 
 Criando um Banco Digital com Java e Orientação a Objetos.
-O projeto do banco tem intuito de exemplificar o funcionamento de um banco digital atraves da linguagem Java.
+O projeto tem o intuito de exemplificar o funcionamento de um banco digital através da linguagem Java.
 Esté projeto tem um sistema de um banco com extrato, saque, deposito e transferênça entre contas. 
 Foram criadas 3 tipos de contas usando `List`. O sistema de comando usando `Scanner` para entrada de numeros.
 
