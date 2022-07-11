@@ -1,8 +1,23 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio de Projeto Modulo Java - `Bootcamp` -TQI Fullstack Developer
 
-## Folder Structure
+## Tecnologias
+
+- Java
+
+## Project
+
+Criando um Banco Digital com Java e Orientação a Objetos.
+O projeto do banco tem intuito de exemplificar o funcionamento de um banco digital atraves da linguagem Java.
+Esté projeto tem um sistema de um banco com extrato, saque, deposito e transferênça entre contas. 
+Foram criadas 3 tipos de contas usando `List`. O sistema de comando usando `Scanner` para entrada de numeros.
+
+### Melhorias futuras
+
+Criar uma lista de clientes. 
+
+<!-- ## Folder Structure
 
 The workspace contains two folders by default, where:
 
@@ -11,7 +26,7 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there. -->
 
 ## Dependency Management
 

@@ -6,10 +6,19 @@ public class ContaInvestimento extends Conta {
       super(cliente);
     }
 
+
     @Override
     public void imprimirExtrato() {
       System.out.println("=====  Extrato Conta Investimento  =====");
       super.imprimirInfosComuns();
+      
+    }
+
+
+    @Override
+    public void imprimirSaldo() {
+      System.out.println("=====  Saldo Conta Investimento  ===== ");
+      super.imprimirInfosSaldo();
       
     }
 }

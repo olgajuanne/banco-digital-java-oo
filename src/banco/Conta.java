@@ -24,7 +24,7 @@ public abstract class Conta implements IConta {
 
     @Override
     public void depositar(double valor) {
-      saldo += valor; //saldo = saldo + valor; 
+      saldo += valor; //saldo = saldo + valor;
     }
 
     @Override
@@ -50,6 +50,11 @@ public abstract class Conta implements IConta {
       System.out.println(String.format("Agencia: %d", this.agencia));
       System.out.println(String.format("Conta: %d", this.numero));
       System.out.println(String.format("Saldo: %.2f", this.saldo));
+      //Pessoa i = new Pessoa("Jose Francisco");
+		  //System.out.println("Veja como os atributos foram preenchidos\n\nNome: " + i.nome);
     }
-  
+    protected void imprimirInfosSaldo(){
+      System.out.println(String.format("Saldo atual: %.2f", this.saldo));
+    }
+ 
 }
