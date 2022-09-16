@@ -1,6 +1,6 @@
 ## Getting Started
 
-Desafio de Projeto Modulo Java - `Bootcamp` -TQI Fullstack Developer
+Desafio de Projeto Modulo Java - `Bootcamp`
 
 ## Tecnologias
 
