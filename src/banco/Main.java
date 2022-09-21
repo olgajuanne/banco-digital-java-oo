@@ -13,11 +13,7 @@ public class Main {
         Conta ci = new ContaInvestimento(venilton);
 
          cc.depositar(100);
-        // cc.transferir(50, cp);
-        // cc.imprimirExtrato();
-        // cp.imprimirExtrato();
-        // ci.imprimirExtrato();   
-
+          
         Scanner input = new Scanner(System.in);
 
         int op; // operação
