@@ -1,6 +1,6 @@
 ## Getting Started
 
-Desafio de Projeto Modulo Java - `Bootcamp`
+Desafio de Projeto Modulo Java - `Bootcamp` DIO
 
 ## Tecnologias
 
@@ -8,11 +8,12 @@ Desafio de Projeto Modulo Java - `Bootcamp`
 - VsCode
 
 ## Project
+![preview](./.github/terminal.png)
 
 Criando um Banco Digital com Java e Orientação a Objetos.
 O projeto tem o intuito de exemplificar o funcionamento de um banco digital através da linguagem Java.
-Esté projeto tem um sistema de um banco com extrato, saque, deposito e transferênça entre contas. 
-Foram criadas 3 tipos de contas usando `List`. O sistema de comando usando `Scanner` para entrada de numeros.
+Este projeto tem um sistema de um banco com extrato, saque, deposito e transferência entre contas. 
+Foram criadas 3 tipos de contas usando `List`. O sistema de comando usando `Scanner` para entrada de números.
 
 ### Melhorias futuras
 
